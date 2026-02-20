@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="left">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jet+Brains&pause=1000&color=33C9F9&width=500&lines=Hi+There+;I'm+Muhammad+Bagas+Setiawan;Nice+To+Meet+You!!" alt="Typing SVG" /></a>
 </h1>
 
@@ -26,25 +26,25 @@
 <h2 align="left">Languages | Frameworks | Tools | Abilities</h2>
 <br>
 <p align="left">
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="SASS" height="25" src="images/sass.svg"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="npm" height="25" src="images/npm.svg"></code>
-  <code><img title="PHP" height="25" src="images/php.svg"></code>
-  <code><img title="Unity" height="25" src="images/unity6.png"></code>
-  <code><img title="Android" height="25" src="images/android.svg"></code>
-  <code><img title="IOS" height="25" src="images/ios.svg"></code>
-  <code><img title="figma" height="30" src="images/figma.png"></code>
-  <code><img title="Expo Go" height="25" src="images/expogo.svg"></code>
-  <code><img title="n8n" height="25" src="images/n8n.png"></code>
-  <code><img title="Next JS" height="25" src="images/nextjs.svg"></code>
+  <img title="HTML5" height="25" src="images/html5.svg">
+  <img title="CSS" height="25" src="images/css.svg">
+  <img title="SASS" height="25" src="images/sass.svg">
+  <img title="Javascript" height="25" src="images/javascript.svg">
+  <img title="React" height="25" src="images/react-original.svg">
+  <img title="figma" height="23" src="images/figma.svg">
+  <img title="Git" height="25" src="images/git-original.svg">
+  <img title="GitHub" height="25" src="images/github.svg">
+  <img title="Next JS" height="25" src="images/nextjs.svg">
+  <img title="MySQL" height="25" src="images/mysql.svg">
+ <img title="PostgreSQL" height="25" src="images/postgresql.svg">
+  <img title="Visual Studio Code" height="25" src="images/vscode.png">
+  <img title="npm" height="25" src="images/npm.svg">
+  <img title="PHP" height="25" src="images/php.svg">
+  <img title="Unity" height="25" src="images/unity6.png">
+  <img title="Android" height="25" src="images/android.svg">
+  <img title="IOS" height="25" src="images/ios.svg">
+  <img title="Expo Go" height="25" src="images/expogo.svg">
+  <img title="n8n" height="25" src="images/n8n.png">
   
   
 </p>
