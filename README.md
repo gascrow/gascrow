@@ -16,7 +16,7 @@
   <br>
   🎓 I design and develop scalable web and cross-platform mobile applications
   <br>
-  🚀I’m currently exploring Web3 development and Integrate AI services automation workflows using n8n
+  🚀I’m currently exploring Web3 development and Integrate AI services automation workflows
   <br>
   📚I continuously improve my skills in system design, clean architecture, and DevOps fundamentals
   <br>
