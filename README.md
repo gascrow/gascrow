@@ -9,7 +9,7 @@
 </h5>
 <br>
 <p align="left">
-  Hi, I’m Muhammad Bagas Setiawan, Information Systems Student & Product Designer/Developer from Indonesia
+  Hi, I’m Muhammad Bagas Setiawan, Information Systems Student & Product Engineer from Indonesia
   <br>
   <br>
   🔬  I’m currently studying Information Systems at Institut Teknologi Kalimantan
