@@ -46,7 +46,8 @@
   <img title="n8n" height="25" src="images/n8n.png">
   <img title="Docker" height="25" src="images/docker.png">
   <img title="Supabase" height="25" src="images/supabase.webp">
-  <img title="Xcode" height="25" src="images/Xcode_26_icon.png">
+  <img title="Xcode" height="25" src="images/xcode_26_icon.png">
+  <img title="Swift UI" height="25" src="images/swiftui.png">
 </p>
 
 
