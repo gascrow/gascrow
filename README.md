@@ -110,18 +110,3 @@
   Web3 · AI Integration · Automation · Mobile Performance
 </p>
 
-<hr>
-
-<h2 align="left">Currently Focused On</h2>
-
-<p align="left">
-  📱 Mobile application development with React Native
-  <br>
-  🍎 Exploring native iOS development with Swift & SwiftUI
-  <br>
-  🎨 Improving UI/UX design and design systems with Figma
-  <br>
-  ⚡ Learning mobile performance and application architecture
-  <br>
-  🤖 Exploring AI-assisted development and automation
-</p>
