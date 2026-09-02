@@ -57,17 +57,13 @@
 
 <h2 align="left">Tech Stack</h2>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-<h3>🎨 Design</h3>
+<h3 align="left">🎨 Design</h3>
 
 <p align="left">
   <img title="Figma" height="30" src="images/figma.svg" alt="Figma">
 </p>
 
-<h3>📱 Mobile Development</h3>
+<h3 align="left">📱 Mobile Development</h3>
 
 <p align="left">
   <img title="React Native" height="30" src="images/react-original.svg" alt="React Native">
@@ -78,11 +74,7 @@
   <img title="Android" height="30" src="images/android.svg" alt="Android">
 </p>
 
-    </td>
-
-    <td width="50%" valign="top">
-
-<h3>🌐 Web Development</h3>
+<h3 align="left">🌐 Web Development</h3>
 
 <p align="left">
   <img title="HTML5" height="30" src="images/html5.svg" alt="HTML5">
@@ -94,7 +86,7 @@
   <img title="PHP" height="30" src="images/php.svg" alt="PHP">
 </p>
 
-<h3>🗄️ Backend & Database</h3>
+<h3 align="left">🗄️ Backend & Database</h3>
 
 <p align="left">
   <img title="MySQL" height="30" src="images/mysql.svg" alt="MySQL">
@@ -102,13 +94,7 @@
   <img title="Supabase" height="30" src="images/supabase.webp" alt="Supabase">
 </p>
 
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-
-<h3>🛠️ Tools & Workflow</h3>
+<h3 align="left">🛠️ Tools & Workflow</h3>
 
 <p align="left">
   <img title="Git" height="30" src="images/git-original.svg" alt="Git">
@@ -118,23 +104,15 @@
   <img title="n8n" height="30" src="images/n8n.png" alt="n8n">
 </p>
 
-    </td>
-
-    <td width="50%" valign="top">
-
-<h3>🔭 Exploring</h3>
+<h3 align="left">🔭 Exploring</h3>
 
 <p align="left">
   Web3 · AI Integration · Automation · Mobile Performance
 </p>
 
-    </td>
-  </tr>
-</table>
-
 <hr>
 
-<h2 align="left">What I'm Currently Focused On</h2>
+<h2 align="left">Currently Focused On</h2>
 
 <p align="left">
   📱 Mobile application development with React Native
